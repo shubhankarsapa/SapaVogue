@@ -24,7 +24,7 @@ Sapa Vogue transforms the way we think about fashion with an innovative 3D shirt
 ### Upload custom logos and designs 
 ![Screenshot 2023-12-29 131824](https://github.com/shubhankarsapa/SapaVogue/assets/68692398/cc77cabe-a66c-460e-b9e7-f3207071e455)
 ![Screenshot 2023-12-29 131844](https://github.com/shubhankarsapa/SapaVogue/assets/68692398/04cb1ed9-61fe-4d0b-a863-64bec0b3e584)
-### USe AI to generate custom designs 
+### Use AI to generate custom designs 
 ![Screenshot 2023-12-29 130744](https://github.com/shubhankarsapa/SapaVogue/assets/68692398/f9744bbf-7083-451d-8c57-3d6b619b5fed)
 ![Screenshot 2023-12-29 130844](https://github.com/shubhankarsapa/SapaVogue/assets/68692398/164ce337-46f7-4860-8db4-16bfbea69a03)
 
@@ -36,8 +36,8 @@ Sapa Vogue transforms the way we think about fashion with an innovative 3D shirt
 
 ## Deployment 
 This application can be hosted on your device 
-Base directory: client
-Build command: npm run dev
+- Base directory: client
+- Build command: npm run dev
 
 ## Live Project 
 See SAPA VOGUE in action [HERE](https://sapavogue.netlify.app/) or on https://sapavogue.netlify.app/
